@@ -2,7 +2,7 @@
 
 Other languages: SAS, R, and Bayesian Logic (BLOG)
 
-Note: I comment often to stay organized and document my own logic, so the scripts should be comprehensible. That being said, I was often the sole data analyst in many of the projects below, so the scripts were written only for one person in mind (me) and not a team. Any queries about the code can be sent to: prr2117@caa.columbia.edu.
+Note: I comment often to stay organized and document my own logic, so the scripts should be comprehensible to those other than myself. That being said, I was often the sole data analyst in many of the projects below, so the comments were written only for one person in mind (me) and not a team. Any queries about the code can be sent to: prr2117@caa.columbia.edu. Thanks!
 
 <!--
 **priyanka34311/priyanka34311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
