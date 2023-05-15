@@ -1,7 +1,8 @@
 ### Welcome! The repositories below contain a selection of codes I have written for various projects and tasks. I learned how to code using MATLAB and Bash, but these days, I typically write code in Python. 
 
 Other languages: SAS, R, and Bayesian Logic (BLOG)
-*note: Most of the scripts in the repositories contain ample comments. I comment often to stay organized and document my own logic. That being said, I was often the sole data analyst in many of the projects below, so the scripts were written only for me and not a team. Queries about the code can be sent to: prr2117@caa.columbia.edu.
+
+Note: I comment often to stay organized and document my own logic, so the scripts should be comprehensible. That being said, I was often the sole data analyst in many of the projects below, so the scripts were written only for me and not a team. Queries about the code can be sent to: prr2117@caa.columbia.edu.
 
 <!--
 **priyanka34311/priyanka34311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
