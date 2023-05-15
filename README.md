@@ -1,6 +1,6 @@
 ### Welcome! The repositories below contain a selection of codes I have written for various projects and tasks. I learned how to code using MATLAB and Bash, but these days, I typically write code in Python. 
 
-Other languages: SAS, R, and Bayesian Logic (BLOG)
+Other languages and packages used: SAS, SPSS, Bayesian Logic (BLOG), Microsoft Excel, and R
 
 Note: I comment often to stay organized and document my own logic, so the scripts should be comprehensible to those other than myself. That being said, I was often the sole data analyst in many of the projects below, so the comments were written only for one person in mind (me) and not a team. Therefore, any queries about the code can be sent to: prr2117@caa.columbia.edu. Thanks!
 
