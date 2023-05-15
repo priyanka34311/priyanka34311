@@ -1,4 +1,6 @@
-### Welcome! The repositories below contain a selection of codes I have written for various projects and tasks. I learned how to code using MATLAB and Bash, but these days, I typically write code in Python.
+### Welcome! The repositories below contain a selection of codes I have written for various projects and tasks. I learned how to code using MATLAB and Bash, but these days, I typically write code in Python. 
+
+Other languages: SAS, R, and Bayesian Logic (BLOG)
 
 <!--
 **priyanka34311/priyanka34311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
