@@ -2,7 +2,7 @@
 
 Other languages and packages used: SAS, SPSS, Bayesian Logic (BLOG), Microsoft Excel, and R
 
-Note: I comment often to stay organized and document my own logic, so the scripts should be comprehensible to those other than myself. That being said, I was often the sole data analyst in many of the projects below, so the comments were written only for one person in mind (me) and not a team. Therefore, any queries about the code can be sent to: prr2117@caa.columbia.edu. Thanks!
+Note: Any queries about the code can be sent to: prr2117@caa.columbia.edu. Thanks!
 
 <!--
 **priyanka34311/priyanka34311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
